@@ -2,7 +2,8 @@
 ## Mô tả nội dung:
 ### Phan1 HoangAnh
  - Phan1.1, 1.2- Hoàng Anh
- -  ảnh chụp màn hình GOOGLE DOCS 
+ -  ảnh chụp màn hình GOOGLE DOCS
+ -  link.txt 
 ### Phan2 Duy 
  - Phan2.1-Duy.png
  - Phan2.2-Duy.mp4
@@ -11,6 +12,8 @@
 ### Phan3 Danh+ Đạt
  - Phan3.1-Danh
  - index
+ - Phan2.2-Duy.mp4
+ - Phan2.1-Duy.png
 ## Trích dẫn nguồn AI
 - Canva (https://www.canva.com/)
 - Chat GPT (https://chatgpt.com/)
