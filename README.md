@@ -1,6 +1,6 @@
 # ThucHanh5_Nhom2
 ## Mô tả nội dung:
-- Phan1 HoangAnh
+### Phan1 HoangAnh
  - Phan1.1, 1.2- Hoàng Anh
  -  ảnh chụp màn hình GOOGLE DOCS 
 - Phan2 Duy 
