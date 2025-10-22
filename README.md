@@ -1,13 +1,16 @@
 # ThucHanh5_Nhom2
 ## Mô tả nội dung:
-- Phan1.1, 1.2- Hoàng Anh.pdf   
+Phan1 HoangAnh
+- Phan1.1, 1.2- Hoàng Anh
+-  ảnh chụp màn hình GOOGLE DOCS
+Phan2 Duy 
 - Phan2.1-Duy.png
 - Phan2.2-Duy.mp4
-- Phan3.1-Danh-index.html
 - ảnh chụp màn hình CANVA
 - ảnh chụp màn hình CAPCUT
-- ảnh chụp màn hình GOOGLE DOCS
-
+Phan3 Danh+ Đạt
+- Phan3.1-Danh
+ - index
 ## Trích dẫn nguồn AI
 - Canva (https://www.canva.com/)
 - Chat GPT (https://chatgpt.com/)
