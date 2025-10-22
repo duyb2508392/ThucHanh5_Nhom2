@@ -9,11 +9,14 @@
  - Phan2.2-Duy.mp4
  - ảnh chụp màn hình CANVA
  - ảnh chụp màn hình CAPCUT
-### Phan3 Danh+ Đạt
- - Phan3.1-Danh
+### Phan3 Danh+ Đạt/NV3.1
  - index
  - Phan2.2-Duy.mp4
  - Phan2.1-Duy.png
+### docs
+-  index
+-  Phan2.2-Duy.mp4
+-  Phan2.1-Duy.png
 ## Trích dẫn nguồn AI
 - Canva (https://www.canva.com/)
 - Chat GPT (https://chatgpt.com/)
