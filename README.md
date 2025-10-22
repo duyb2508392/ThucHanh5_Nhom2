@@ -10,11 +10,11 @@
  - ảnh chụp màn hình CANVA
  - ảnh chụp màn hình CAPCUT
 ### Phan3 Danh+ Đạt/NV3.1
- - index
+ - index.html
  - Phan2.2-Duy.mp4
  - Phan2.1-Duy.png
 ### docs
--  index
+-  index.html
 -  Phan2.2-Duy.mp4
 -  Phan2.1-Duy.png
 ## Trích dẫn nguồn AI
